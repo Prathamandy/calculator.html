@@ -1,2 +1,2 @@
 # calculator.html 
-is is calculator based on web page. created by pratham
+It is a calculator made by using html,css and java script created by pratham
